@@ -1,0 +1,8 @@
+1. Github account
+2. empty repo
+3. local system
+	git config -global user.name "lovebabbar"
+	git config -global user.email "yc21chb0a60@student.nitw.ac.in
+4. git push -u original master
+	4.1. username? ->yashchoraria
+	4.2. password? -> ahahahah
